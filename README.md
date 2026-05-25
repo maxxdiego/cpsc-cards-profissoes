@@ -54,6 +54,7 @@ Acesse [http://localhost:3000](http://localhost:3000) no seu navegador.
 | `npm run lint` | Verifica erros de lint no código |
 
 ## 📁 Estrutura do projeto
+```text
 CPSC-CARDS-PROFISSOES/
 ├── .next/
 ├── app/
@@ -76,6 +77,7 @@ CPSC-CARDS-PROFISSOES/
                 ├── index.ts
                 ├── styles.ts
                 └── types.ts
+```
 
 ## 📝 Licença
 
